@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 fdxgdfg
 123123
+=======
+fdxgdfg
+lllllll
+123123
+>>>>>>> lllll
